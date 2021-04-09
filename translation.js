@@ -33,7 +33,6 @@ module.exports = {
         choose_company: "Rahbariyat / kompaniyani tanlang:",
         murojatingiz: "Мурожаатингиз",
         murojat_turi: "Мурожаат тури",
-        korxona_nomi: "Корхона номи",
         murojaat_tavsifi: "Мурожаат тавсифи",
         email: "'Узбекнефтгаз' дан рўйҳатдан ўтган Email ни киритинг",
         email_info: "Е-почта",
@@ -61,7 +60,8 @@ module.exports = {
         `Batafsil ma'lumot olmoqchi bo'lsangiz adminga (http://t.me/bb2uz) murojaat qilishingiz mumkin!\n\n`+
         
         `https://www.youtube.com/watch?v=bWoNKo-0Fe0&t=75s`,
-        rejoin_to_channel: "Siz ushbu kanaldan chiqip ketkansz qaytadan a\'zo bo'ling!"
+        rejoin_to_channel: "Siz ushbu kanaldan chiqip ketkansz qaytadan a\'zo bo'ling!",
+        korxona_nomi: "Название заведения",
 
 
     },

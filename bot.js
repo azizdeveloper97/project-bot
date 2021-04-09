@@ -87,7 +87,6 @@ bot.action(['uz', 'ru'], (ctx) => {
                                 after_reg(ctx)
                             }
                         }, (error) => {
-                            //ctx.reply("User topilmadi")
                             reg(ctx)
                         });
     returnMain(ctx);
